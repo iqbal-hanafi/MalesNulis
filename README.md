@@ -2,7 +2,7 @@
 
 ![screenshoot](https://github.com/ikbal-hanafi/males_nulis/blob/main/Screenshot_20210101-181358.jpg)
 
-silahkan di install sesaui abi hp klean, btw hanya untuk hp android
+silahkan di install sesuai abi hp klean, btw hanya untuk hp android
 
 # install
 - [arm64-v8a](https://github.com/ikbal-hanafi/males_nulis/blob/main/app-arm64-v8a-release.apk?raw=true)
